@@ -9,6 +9,6 @@ We are a Techlahoma group that strictly adheres to this [Code of Conduct](http:/
 
 #### Parking at 36°N
 
-Our meetings are held at the incredibly [36°N](http://36n.co). Here is a helpful parking map:
+Our meetings are held at the incredible [36°N](http://36n.co). Here is a helpful parking map:
 
 ![36°N Parking](36n_parking.jpeg "36°N Parking")
